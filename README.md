@@ -1,4 +1,4 @@
-# OWISAM-TOOLKIT-GD: Auditoría de Directivas y Cumplimiento Wi-Fi 🛡️⚖️
+# OWISAM-TOOLKIT-GD: Auditoría de Directivas y Cumplimiento Wi-Fi 
 
 ## 📝 Descripción del Proyecto
 Este proyecto consiste en el desarrollo de una herramienta avanzada en **Python** diseñada para la auditoría de redes inalámbricas bajo el estándar **OWISAM-GD (Governance & Directives)**. 
